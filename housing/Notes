@@ -1,3 +1,0 @@
-1. there is clustering of data at many features whose value is 0
-2. not all feature labels are in the data for 1hot. Some unseen labels might appear in the test data but not seen in the training data
-
